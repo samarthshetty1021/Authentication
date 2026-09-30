@@ -1,0 +1,23 @@
+(node:16868) [DEP0169] DeprecationWarning: `url.parse()` behavior is not standardized and prone to errors that have security implications. Use the WHATWG URL API instead. CVEs are not issued for `url.parse()` vulnerabilities.
+(Use `node --trace-deprecation ...` to show where the warning was created)
+Listening on port 3001
+Error inserting manufacturer: error: duplicate key value violates unique constraint "manufacturer_pkey"
+    at Parser.parseErrorMessage (C:\Users\Samarth\OneDrive\Desktop\Authentication-System-for-Genuine-Goods-main\node_modules\pg-protocol\dist\parser.js:283:98)
+    at Parser.handlePacket (C:\Users\Samarth\OneDrive\Desktop\Authentication-System-for-Genuine-Goods-main\node_modules\pg-protocol\dist\parser.js:122:29)
+    at Parser.parse (C:\Users\Samarth\OneDrive\Desktop\Authentication-System-for-Genuine-Goods-main\node_modules\pg-protocol\dist\parser.js:35:38)
+    at Socket.<anonymous> (C:\Users\Samarth\OneDrive\Desktop\Authentication-System-for-Genuine-Goods-main\node_modules\pg-protocol\dist\index.js:11:42)
+    at Socket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)
+Error inserting manufacturer: error: duplicate key value violates unique constraint "manufacturer_pkey"
+    at Parser.parseErrorMessage (C:\Users\Samarth\OneDrive\Desktop\Authentication-System-for-Genuine-Goods-main\node_modules\pg-protocol\dist\parser.js:283:98)
+    at Parser.handlePacket (C:\Users\Samarth\OneDrive\Desktop\Authentication-System-for-Genuine-Goods-main\node_modules\pg-protocol\dist\parser.js:122:29)
+    at Parser.parse (C:\Users\Samarth\OneDrive\Desktop\Authentication-System-for-Genuine-Goods-main\node_modules\pg-protocol\dist\parser.js:35:38)
+    at Socket.<anonymous> (C:\Users\Samarth\OneDrive\Desktop\Authentication-System-for-Genuine-Goods-main\node_modules\pg-protocol\dist\index.js:11:42)
+    at Socket.emit (node:events:508:28)
+    at addChunk (node:internal/streams/readable:559:12)
+    at readableAddChunkPushByteMode (node:internal/streams/readable:510:3)
+    at Readable.push (node:internal/streams/readable:390:5)
+    at TCP.onStreamRead (node:internal/stream_base_commons:189:23)

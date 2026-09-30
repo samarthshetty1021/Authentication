@@ -1,0 +1,53 @@
+ganache v7.9.2 (@ganache/cli: 0.10.2, @ganache/core: 0.10.2)
+Starting RPC server
+
+Available Accounts
+==================
+(0) 0x85472f701A73b1A2B40b68B05eDa2DA43D54d8B2 (1000 ETH)
+(1) 0xb5Cfbe5982a9867d565bCe4bE7543A5438494308 (1000 ETH)
+(2) 0x66142CE20cfBD5fa88765771FB37F49A6f2D9d81 (1000 ETH)
+(3) 0x8dc6Cd207624195fB23146AF646C2472fCCf97fc (1000 ETH)
+(4) 0x290E97a201b7872237489EF4aeB3dd77e525B97a (1000 ETH)
+(5) 0xc0Cf879D5d13Af606B232d7BD36C5335e054D7B7 (1000 ETH)
+(6) 0x7542D632aDba666aa4a65Ff67D6361EDc4E3DD40 (1000 ETH)
+(7) 0xb40fd09180E6972eFC236AECAEDDC32a6039D68f (1000 ETH)
+(8) 0x5Eb7416AEbd8aF60597761d3339524B1AbA20142 (1000 ETH)
+(9) 0x08C7130dEcb4D170D57E272Becb199318832ba28 (1000 ETH)
+
+Private Keys
+==================
+(0) 0x34ce1d8fc0f42c0a43395d01ddb2ed7e41dce5dcd601b25d3afe39c8ad9f839b
+(1) 0xf438b386aa49b9a7c03a677675b0155af587b933e4c65792012f2e08a775d102
+(2) 0xc77e0cf7962b614a2342ad51dc416c3df24b9ae12c6175cc87566fb5e54af92c
+(3) 0x6be403c9d33f01ad3fc7f0a8a6da55771e20bac262d460134fca09c849db646e
+(4) 0xc2310910f8fb4f7d0a11fec2c454d648dbe264f32fc8bd678b0625da298ff90e
+(5) 0x744170b3a26c1ce44c732380734ca7ee74c2466aae50de087265eff6e39b8600
+(6) 0xc869e0bb9d57824e93ba145b9858a8c72730e15cb506fd429a2bc23bbd3d328c
+(7) 0x271dc6cf4b2febe864b866900b68647e523e5926cd7497f56469988482abdd63
+(8) 0xa045f5948773bfc1ec69602e99f2e2dc4061915b9e34ef8dcfcbd370d1000c71
+(9) 0x35769f389e47eaac80a28e8bf2f75a3d9a9974f1d0ef06885ecb918be264463f
+
+HD Wallet
+==================
+Mnemonic:      unfold casino weird month tomorrow market coffee rally dream drastic camera blouse
+Base HD Path:  m/44'/60'/0'/0/{account_index}
+
+Default Gas Price
+==================
+2000000000
+
+BlockGas Limit
+==================
+30000000
+
+Call Gas Limit
+==================
+50000000
+
+Chain
+==================
+Hardfork: shanghai
+Id:       1337
+
+RPC Listening on 127.0.0.1:8546
+

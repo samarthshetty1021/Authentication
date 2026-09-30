@@ -1,0 +1,17 @@
+(node:21684) [MODULE_TYPELESS_PACKAGE_JSON] Warning: Module type of file:///C:/Users/Samarth/OneDrive/Desktop/Authentication-System-for-Genuine-Goods-main/src/ethereum/deploy.js is not specified and it doesn't parse as CommonJS.
+Reparsing as ES module because module syntax was detected. This incurs a performance overhead.
+To eliminate this warning, add "type": "module" to C:\Users\Samarth\OneDrive\Desktop\Authentication-System-for-Genuine-Goods-main\package.json.
+(Use `node --trace-warnings ...` to show where the warning was created)
+(node:21684) [DEP0040] DeprecationWarning: The `punycode` module is deprecated. Please use a userland alternative instead.
+node:internal/process/promises:392
+      new UnhandledPromiseRejection(reason);
+      ^
+
+UnhandledPromiseRejection: This error originated either by throwing inside of an async function without a catch block, or by rejecting a promise which was not handled with .catch(). The promise rejected with the reason "#<Object>".
+    at throwUnhandledRejectionsMode (node:internal/process/promises:392:7)
+    at processPromiseRejections (node:internal/process/promises:475:17)
+    at process.processTicksAndRejections (node:internal/process/task_queues:104:32) {
+  code: 'ERR_UNHANDLED_REJECTION'
+}
+
+Node.js v24.13.1
